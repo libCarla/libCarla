@@ -8,7 +8,7 @@
 
 ✦ Para la parte de sistema de control de versiones tengo conocimientos básicos de **Git** y **Github** -como se puede ver-.
 
-Att: Liberum, mi nickname en internet ツ
+Att: Lib, mi nickname en internet ツ
 
 <!---
 libCarla/libCarla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
